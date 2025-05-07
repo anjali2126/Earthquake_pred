@@ -1,7 +1,6 @@
 torch
 h5py
 numpy
-csv
 pandas
 matplotlib
 seaborn
