@@ -1,0 +1,16 @@
+torch
+h5py
+numpy
+csv
+pandas
+matplotlib
+seaborn
+scikit-learn
+scipy
+tqdm
+torchsummary
+torchvision
+PIL
+joblib
+streamlit
+geopy
