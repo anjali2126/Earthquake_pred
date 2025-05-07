@@ -3,7 +3,6 @@ import pandas as pd
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
-import numpy as np
 import h5py
 import matplotlib.pyplot as plt
 import seaborn as sns
